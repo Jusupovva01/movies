@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.movie {
+ width: 100px;
+
+}
+
+.film {
+    color : skyblue;
+ 
+    padding-left: 100px;
+    width: 200px;
+    position: relative;
+    bottom: 60px;
+    left: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.serial {
+    background-color: lightblue;
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+
+.films {
+    margin-top: 20px;
+}
+p {
+    background-color: rgb(98, 157, 224);
+}
+
+.mov {
+   color: rgb(15, 140, 189);
+   text-align: center;
+}
+
+table {
+    border: 2px solid darkblue;
+    width: 500px;
+    margin-left: 100px;
+}
+
+td{
+    border: 1px solid darkblue;
+
+}
+
+.comedy-name {
+    color:  rgb(71, 152, 184);
+    text-align: center;
+}
