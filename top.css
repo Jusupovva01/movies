@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+                <link rel="styleheet" href="top.css"/>
+
+
+    </head>
+
+    <body>
+
+        <header>
+
+        <img src="https://w7.pngwing.com/pngs/999/1016/png-transparent-film-cinema-logo-cinema-x-chin.png"/ width="100px" ; class="movie"/>
+        <h1 class="film">Фильмы</h1>
+        <nav>
+        <a class="serial" href=""> Главная </a> 
+        <a class="serial" href=""> Horror </a>
+        <a class="serial" href=""> Comedy </a>
+        <a class="serial" href=""> top 10 movies </a> 
+        </nav>
+          </header>
+          
+        <main>
+            <h1 class="mov">Top 5 movies</h1>
+            <p>Большинство зрителей воспринимают кино как способ развлечься и получить эмоции. Однако такое пассивное восприятие ограничено и не позволяет увидеть скрытые автором смыслы, которые находятся, как правило, вне основного сюжета. Почему средняя длина кадра в «Мстителях» две секунды, а в фильмах Тарковского он не меняется в течение пяти минут? Зачем оператор делает круговорот с помощью камеры? Как создается эффект присутствия за счет звука? На эти вопросы отвечает лектор курса «Как смотреть кино» от образовательного проекта «Синхронизация» Данила Кузнецов.</p>
+            
+            <iframe width="400" height="250" src="https://www.youtube.com/embed/JcEKRP7h5G8" title="Стражи Галактики 3 | Русский трейлер (Дубляж Red Head Sound) с официальными голосами" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="400" height="250" src="https://www.youtube.com/embed/vigcDo4iz0Y" title="Кунг-фу жеребец (Русский трейлер 2023) | Ride On" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="400" height="250" src="https://www.youtube.com/embed/BlYtDwvixVw" title="Я хочу! Я буду! - Русский трейлер (2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="400" height="250" src="https://www.youtube.com/embed/n7ih57t7ZZA" title="Поехавшая - трейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <iframe width="400" height="250" src="https://www.youtube.com/embed/DMEi9UZrGAE" title="Смотрим фильм Нюрнберг (2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+            <table>
+                <tr style="background-color: lightblue">
+                    <td> Номер</td>
+                    <td> Название </td>
+                    <td> Рейтинг</td>
+                </tr>
+            <tr>
+                <td> № 1 </td>
+                <td> Стражи Галактики 3</td>
+                <td> 8.4</td>
+            </tr>
+
+            <tr>
+
+            <td> № 2 </td>
+            <td> Кунг-фу жеребец </td>
+            <td> 8.1 </td>
+            </tr>
+
+            <tr>
+                <td> № 3 </td>
+                <td> Я хочу ! Я буду ! </td>
+                <td> 6.8 </td>
+            </tr>
+
+             <tr>
+                 <td> № 4 </td>
+                 <td> Поехавшая </td>
+                 <td> 7.8 </td>
+                 </tr>
+
+                 <tr>
+                     <td> № 5 </td>
+                     <td> Нюрнберг </td>
+                     <td> 6.0 </td>
+                 </tr>
+             
+            </table>
+
+            <p>Многие воспринимают просмотр фильма как идеальный способ расслабиться, но, оказывается, это не такое простое развлечение. Кино воздействует на наш мозг и тело.
+«Так как многие фильмы чаще транслируют идеи через эмоции, а не через логическое повествование, они могут нейтрализовать инстинкты, подавлять чувства и провоцировать выход эмоций, — говорит Бирджит Вольц, психолог, специализирующийся на кино как терапии. — Просмотр фильмов, вызывающих эмоции, может открывать такие двери, которые в противном случае оставались бы закрытыми». Поэтому перед походом в кино в следующий раз стоит заранее знать, как ваша психика и тело будут реагировать на тот или иной фильм.</p>
+
+            </main>
+
+            <footer>
+
+            </footer>
+         </body>
+
+
+</html>
+
